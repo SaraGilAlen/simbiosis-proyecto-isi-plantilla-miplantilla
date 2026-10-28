@@ -3,8 +3,8 @@
 | Campo | Valor |
 | --- | --- |
 | Proyecto | Proyecto Simbiosis |
-| Fecha | [dd/mm/aaaa] |
-| Versión | [Versión de trabajo] |
+| Fecha | [28/10/2026] |
+| Versión | [1.0] |
 | Estado | Borrador |
 
 ## Fuentes comunes
@@ -25,7 +25,7 @@ Como [rol], quiero [capacidad amplia], para [beneficio].
 
 ## US-01
 
-**Título:** [Capacidad]
+**Título:** Búsqueda de recetas por palabra o frase 
 
 Como [rol], quiero [capacidad], para [beneficio].
 
